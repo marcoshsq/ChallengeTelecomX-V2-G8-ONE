@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/marcoshsq/TelecomX-Churn-Analysis-ONE">
-    <img src="https://github.com/marcoshsq/ChallengeTelecomX-V1-G8-ONE/blob/main/Challenge_Badge.png" alt="Challenge_Badge" height="150">
+    <img src="https://github.com/marcoshsq/ChallengeTelecomX-V2-G8-ONE/blob/main/Challenge_Badge.png" alt="Challenge_Badge" height="150">
   </a>
 </p>
 
